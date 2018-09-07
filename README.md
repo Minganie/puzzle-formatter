@@ -19,3 +19,5 @@ optional arguments:
   --output OUTPUT  Path and filename for pdf output
  ```
 
+## Example result
+<img src="before.png" width=300 height=300 style="vertical-align:middle" /> => <img src="after.png" width=300 height=330 style="vertical-align:middle" />
