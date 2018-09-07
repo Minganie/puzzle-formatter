@@ -1,6 +1,10 @@
 # puzzle-formatter
 Simple script to format puzzles for printing
 
+
+## Usage
+
+```
 usage: puzzle-formatter.py [-h] [--game GAME] [--output OUTPUT] n
 
 Create a printable pdf of paper games.
@@ -13,5 +17,8 @@ optional arguments:
   --game GAME      game desired, choices are 'ksudoku', 'nurikabe',
                    'dominosa', 'loop'
   --output OUTPUT  Path and filename for pdf output
-  
-  
+ ```
+
+
+## Example result
+![Before](before.png) => ![After](after.png)
