@@ -19,6 +19,3 @@ optional arguments:
   --output OUTPUT  Path and filename for pdf output
  ```
 
-
-## Example result
-![Before](before.png) => ![After](after.png)
